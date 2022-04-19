@@ -1,6 +1,6 @@
 # Microservices with NestJS
 
-All rigth, that's a basic example about creating a microservices by TCP (Transmission Control Protocol)
+All rigth, that's a basic example about creating microservices by TCP (Transmission Control Protocol)
 
 ## Installing
 First of all: open each folder in turn and run
